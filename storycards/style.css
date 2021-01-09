@@ -15,7 +15,7 @@ body {
   margin: auto;
   color: #111111;
   /* background-color: #f9f9f9; */
-  background-color: lemonchiffon;
+  background-color:peachpuff;
   padding: 13px; }
 
 @media (max-width: 684px) {
@@ -190,5 +190,11 @@ label, legend, fieldset {
   margin-bottom: .5rem;
   font-weight: 600; }
 
-
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
 
