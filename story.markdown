@@ -90,13 +90,17 @@ The English cards were appreciated in a Times of India news –
 
 <p style="text-align:justify; text-justify: inter-word">Govt. Schools in Salem dist., TN have reported that Kathai Aruvi is motivating the children to write their own stories, create models, puppets, props and enact the stories</p>
 
-<p style="text-align:justify; text-justify: inter-word">Several creative writing and storytelling workshops were conducted with children and teachers using the story cards over the years. In 2018, in collaboration with Sanchit Smriti, Lucknow, a series of storytelling workshops were conducted for KV teachers in the Northern Zone. The KV teachers responded enthusiastically to the Hindi the story cards, Katha Jharna.</p>
+<p style="text-align:justify; text-justify: inter-word">Several creative writing and storytelling workshops were conducted with children and teachers using the story cards over the years. In 2018, in collaboration with Sanchit Smriti, Lucknow, Kendriya Vidyalaya Sangathan conducted a series of storytelling workshops for KV teachers in the Northern Zone. The KV teachers responded enthusiastically to the Hindi story cards, Katha Jharna.</p>
 
 :-------------------------:|:-------------------------:
 ![](../assets/images/story_cards_7.jpg)  |  ![](../assets/images/story_cards_8.jpg) |
 
 ![](../assets/images/story_cards_children_9.jpg)
 
+
+<p align="center">
+  <em>Reading Katha Jharna in a library, Nainital, Uttarakhand</em>
+</p>
 
 <br>
 <p style="text-align:justify; text-justify: inter-word">A few overseas groups have also reported that they were using the story cards for teaching language to children.</p>
@@ -109,23 +113,13 @@ The English cards were appreciated in a Times of India news –
 
 <!-- <p style="text-align:justify; text-justify: inter-word">Click here to view some video feedbacks received on Kathai Aruvi from children in Tamil Nadu schools</p> -->
 
-![](../assets/images/story_cards_children_1.jpg) 
+<!-- ![](../assets/images/story_cards_children_1.jpg)  -->
 
 :-------------------------:|:-------------------------:
 ![](../assets/images/story_cards_children_3.jpg)  |  ![](../assets/images/story_cards_children_7.jpg)
  
 
 <p style="text-align:center"><em>Some school children using the Story Cards in their schools</em></p>
-
-
-**Future Plans for the Story Cards Program.**
-
-<p style="text-align:justify; text-justify: inter-word">While the Foundation is happy that we have been able to reach a few lakhs students from disadvantaged sections in different parts of the country and in 5-6 different languages, this is till far from what is required in a vast country like ours with over 25 major languages and hundreds of millions of  children in schools.</p>
-<p style="text-align:justify; text-justify: inter-word">If the required resources and support are available, we would like to pursue this work in the following ways:</p>
-1. <p style="text-align:justify; text-justify: inter-word">Bring out the Story Cards in at least some of the renaming major Indian languages like Malayalam,Telugu, Bengali, Assamese, Punjabi, Urdu, Kashmiri, Konkini, etc.</p>
-2. <p style="text-align:justify; text-justify: inter-word">Scale up production and distribution of the Story Cards to much larger numbers  in languages where they are already available , as well as the newly planned languages.</p>
-3. <p style="text-align:justify; text-justify: inter-word">Work with the Govt. Depts, Schools , NGO s etc to ensure that the Cards once they reach the schools are properly made use of  - through teacher training programs, visits, follow up activities, feed backs  etc.</p>
-<p style="text-align:justify; text-justify: inter-word">Lack of resources and support is what is standing in the way of our taking the above steps.</p>
 
 
 **Funding of the Story Card Program – request for  support**
