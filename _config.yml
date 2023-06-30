@@ -23,7 +23,7 @@ email: rsmf1944@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Website for Rajalakshmi Srinivasan Memorial Foundation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rajifoundation.in" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rajifoundation.in/tamil" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
