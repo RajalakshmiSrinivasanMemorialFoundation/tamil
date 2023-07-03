@@ -22,8 +22,8 @@ title: ராஜலட்சுமி சீனிவாசன் நினை�
 email: rsmf1944@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ராஜலட்சுமி சீனிவாசன் நினைவு அறக்கட்டளை வலைத்தளம்.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rajifoundation.in/tamil" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/tamil" # the subpath of your site, e.g. /blog
+url: "https://rajifoundation.in" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
