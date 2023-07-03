@@ -1,60 +1,60 @@
 ---
 layout: page
-title: Launch Function
+title: தொடக்கம்
 permalink: launch/
 ---
 
-<p style="text-align: center;"><strong>Raji Foundation Launch Function : Wed the 28th May 2014</strong></p>
+<p style="text-align: center;"><strong>ராஜி அறக்கட்டளை தொடக்க விழா: 28 மே 2014 புதன்கிழமை</strong></p>
 
-Raji Foundation was formally launched on Wed. 28th May, 2014.
+ராஜி அறக்கட்டளை அதிகாரப்பூர்வமாக 28 மே, 2014 புதன்கிழமை தொடங்கப்பட்டது.
 
-<p style="text-align: center;"><strong>The Program</strong></p>
+<p style="text-align: center;"><strong>நிகழ்ச்சி</strong></p>
 
-**Date and Time:** Wednesday the 28th May 2014, 9.30 AM  to 3.00 PM
+**தேதி மற்றும் நேரம்:** 28 மே 2014 புதன்கிழமை, காலை 9.30 முதல் மாலை 3.00 மணி வரை
 
-**Venue:** Adyar Shastri Nagar Welfare Association Hall, 18/11, 5th Cross Street, Shastri Nagar, Adyar , Chennai – 600020 . Ph. 044-24460822.
+**இடம்:** அடையாறு சாஸ்திரி நகர் நல சங்க மண்டபம், 18/11, 5வது குறுக்குத் தெரு, சாஸ்திரி நகர், அடையாறு, சென்னை - 600020. Ph. 044-24460822.
 
-**Agenda**
+**நிகழ்ச்சி நிரல்**
 
-- 9.30 AM – 10.30 AM: Formal Launch Function of the Foundation
-- 10.30 AM – 11.00 AM: Tea Break
-- 11.00 AM – 1.00 PM : Meeting with representatives of Schools for the Disadvantaged Sections.
-- 1.00 PM – 2.00 PM : Lunch
-- 2.00 PM – 3.00 PM : Meeting of Trustees and volunteers to consolidate the inputs and formulate plans.
+- 9.30 AM – 10.30 AM: அறக்கட்டளையின் முறையான துவக்க விழா
+- 10.30 AM – 11.00 AM: தேநீர் இடைவேளை
+- 11.00 AM – 1.00 PM : பின்தங்கிய பிரிவினருக்கான பள்ளிகளின் பிரதிநிதிகளுடன் சந்திப்பு
+- 1.00 PM – 2.00 PM : மதிய உணவு
+- 2.00 PM – 3.00 PM : உள்ளீடுகளை ஒருங்கிணைத்து திட்டங்களை வகுக்க அறங்காவலர்கள் மற்றும் தன்னார்வலர்களின் கூட்டம்.
 
-**Goal of the Meeting with School Representatives:**
+**பள்ளிப் பிரதிநிதிகளுடனான சந்திப்பின் நோக்கம்:**
 
-<p style="text-align:justify; text-justify: inter-word">This would be a meeting with representatives of the schools/homes for the poor from in and around Chennai, in which we will explain about RSMF background, purpose and goals, and seek from them inputs on the kind of support that they would like us to extend to them. There are broadly two types of engagements RSMF could have with them:</p>
- - <p style="text-align:justify; text-justify: inter-word">Engaging with them in improving their ongoing teaching-learning processes within their schools – through providing additional coaching in the required subjects; extracurricular/ co-curricular/ creative activities; language, communication skills and personality development, etc.</p>
- - <p style="text-align:justify; text-justify: inter-word">Preparing and supporting the children for life beyond the school – opportunities for higher studies, careers, vocations, skills, employment etc that they can pursue after they pass out of the school. We would get the inputs from the school representatives on the kind of specific engagements they would like to have with the Foundation in these two areas. This input would form part of the basis for our future programs in this domain, as well as we will be able to identify institutions and individuals with whom we could be working , beyond our primary engagement with Avvai Home.</p>
-
-
-<p style="text-align: center;"><strong>Details of the Formal Launch Function and list of speakers</strong></p>
+<p style="text-align:justify; text-justify: inter-word">சென்னை மற்றும் அதைச் சுற்றியுள்ள ஏழைகளுக்கான பள்ளிகள்/இல்லங்கள் பிரதிநிதிகளுடனான சந்திப்பாக இது இருக்கும். இதில் RSMF பின்னணி, நோக்கம் மற்றும் இலக்குகள் பற்றி விளக்குவோம்.மேலும் அவர்கள் எங்களுக்கு ஆதரவளிக்க விரும்பும் விதத்தில் உள்ளீடுகளைப் பெறுவோம்.  RSMF அவர்களுடன்  இரண்டு வகையில் ஈடுபடும்:</p>
+ - <p style="text-align:justify; text-justify: inter-word">தேவையான பாடங்களில் கூடுதல் பயிற்சி அளிப்பதன் மூலம் - அவர்களின் பள்ளிகளுக்குள் அவர்களின் தற்போதைய கற்பித்தல்-கற்றல் செயல்முறைகளை மேம்படுத்துவதில் அவர்களுடன் ஈடுபடுதல்; சாராத / இணை பாடத்திட்ட / படைப்பு நடவடிக்கைகள்; மொழி, தொடர்பு திறன் மற்றும் ஆளுமை வளர்ச்சி போன்றவை.</p>
+ - <p style="text-align:justify; text-justify: inter-word">பள்ளிக்கு அப்பாற்பட்ட வாழ்க்கைக்கு குழந்தைகளைத் தயார்படுத்துதல் மற்றும் ஆதரித்தல் - அவர்கள் பள்ளியை விட்டு வெளியேறிய பிறகு அவர்கள் தொடரக்கூடிய உயர் படிப்புகள், தொழில்கள், திறன்கள், வேலைவாய்ப்பு போன்றவற்றிற்கான வாய்ப்புகள். இந்த இரண்டு பகுதிகளிலும் அறக்கட்டளையுடன் அவர்கள் செய்ய விரும்பும் குறிப்பிட்ட ஈடுபாடுகள் குறித்து பள்ளிப் பிரதிநிதிகளிடமிருந்து உள்ளீடு பெறுவோம். இந்த உள்ளீடு எங்களின் எதிர்கால திட்டங்களுக்கான அடிப்படையின் ஒரு பகுதியாக அமையும். அவ்வை இல்லத்துடனான எங்கள் முதன்மை ஈடுபாட்டிற்கு அப்பால், நாங்கள் பணியாற்றக்கூடிய நிறுவனங்கள் மற்றும் தனிநபர்களை அடையாளம் காண முடியும்.</p>
 
 
-**Invocation:** Dr. K R Aarya
-
-**Welcome & Introduction:** Prof. C N Krishnan, Chairman of the Foundatio
-
-**Address:** Prof. Jothi Kumaravel, Principal, Ethiraj College for Wome
-
-**Talk by:** Ms. V Susheela, Secretary & Correspondent, Avvai Hom
-
-**Chief Guest address by:** Ms. D Sabita, IAS, Principal Secretary, T N Govt
-
-**Felicitations:**
-
- - Prof. Yasodha Shanmughasundaram
- - Dr. C N Parameswaran
- - Dr. Mukul K Sinha
- - Mr. S Ramakrishnan
- - Mr. A V Balasubramanian
- - Ms. Hema Gopal
+<p style="text-align: center;"><strong>நிகழ்ச்சி நிரல்</strong></p>
 
 
-<p><strong>Vote of Thanks:</strong> Ms. N Shanthi, Managing Trustee of the Foundation</p>
+**பிரார்த்தனை:** டாக்டர் கே. ஆர். ஆர்யா
 
-Click <a style="text-decoration: underline" href="https://rajifoundation.in/launch-gallery/">here</a> for some photographs taken on the occasion.
+**வரவேற்றுப் பாராட்டி அறிமுகம்:** பேராசிரியர் சி. என். கிருஷ்ணன், நிறுவனத் தலைவர்
+
+**உரை:** பேராசிரியர் ஜோதி குமாரவேல், முதல்வர், எத்திராஜ் பெண்கள் கல்லூரி
+
+**பேச் சு:** திருமதி வி. சுசீலா, செயலாளர் மற்றும் செய்தியாளர், அவ்வை இல்லம்
+
+**தலைமை விருந்தினர் உரை:** திருமதி டி சபீதா, ஐஏஎஸ், முதன்மைச் செயலாளர், தமிழ்நாடு அரசாங்கம்
+
+**வாழ்த்துகள்:**
+
+ - பேராசிரியர் யசோதா சண்முகசுந்தரம்
+ - டாக்டர் சி. என். பரமேஸ்வரன்
+ - டாக்டர் முகுல் கே சின்ஹா
+ - திரு. எஸ். ராமகிருஷ்ணன்
+ - திரு. ஏ. வி. பாலசுப்பிரமணியன்
+ - திருமதி ஹேமா கோபால்
+
+
+<p><strong>நன்றி கூறுதல்:</strong>திருமதி. என் சாந்தி, அறக்கட்டளை நிர்வாக அறங்காவலர்</p>
+
+இந்த விழாவில் எடுக்கப்பட்ட சில புகைப்படங்களை காண  <a style="text-decoration: underline" href="https://rajifoundation.in/launch-gallery/">இங்கே</a> க்ளிக் செய்யவும்.
 
 
 <p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
