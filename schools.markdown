@@ -1,66 +1,66 @@
 ---
 layout: page
-title: Our work with Schools
+title: பள்ளிகளுடன் எங்கள் பணி
 permalink: schools/
 ---
-<p style="text-align: center;"><strong>Our Work with Schools for Underprivileged Children</strong></p>
+<p style="text-align: center;"><strong>பொருளாதாரத்தில் பின்தங்கிய குழந்தைகளுக்கான பள்ளிகளுடன் எங்கள் பணி</strong></p>
 
-<p style="text-align:justify; text-justify: inter-word">The Foundation with its bi-line “Educate.Empower” has a sharp focus on supporting the  education of school children from underprivileged backgrounds. As we see it, interventions in schools with this objective can be broadly of two types:</p>
- - <p style="text-align:justify; text-justify: inter-word">Helping to improve the curricular, co-curricular and extra-curricular performance of children while they are in the  schools.</p>
- - <p style="text-align:justify; text-justify: inter-word">Enabling and assisting the children to take up careers, training or study programs of their choice, aptitude and abilities once they leave the school.</p>
-<p style="text-align:justify; text-justify: inter-word">Most of the interventions in schools by voluntary agencies, corporate entities etc belong to the first type, with relatively less efforts devoted to the second type of support, though there are a number of vocational training institutions, charities that fund college education etc active in this space.</p>
+<p style="text-align:justify; text-justify: inter-word">எங்கள் அறக்கட்டளையின்  நோக்கம் – கல்வி, அதிகாரமளித்தல்.  பின்தங்கிய பின்னணியில் இருந்து வரும் பள்ளிக் குழந்தைகளின் கல்விக்கு ஆதரவளிப்பதில் கூர்மையான கவனம் செலுத்துகிறது. இதை நாம் பார்க்கையில், இந்த நோக்கத்துடன் பள்ளிகளில் தலையீடுகள் பொதுவாக இரண்டு வகைகளாக இருக்கலாம்:</p>
+ - <p style="text-align:justify; text-justify: inter-word">பள்ளிகளில் படிக்கும் போது குழந்தைகளின் பாடத்திட்டம், இணை பாடத்திட்டம் மற்றும் கூடுதல் செயல்திறனை மேம்படுத்த உதவுதல்.</p>
+ - <p style="text-align:justify; text-justify: inter-word">குழந்தைகள் பள்ளியை விட்டு வெளியேறியவுடன் அவர்கள் விரும்பிய தொழில், பயிற்சி அல்லது படிப்பு திட்டங்களை மேற்கொள்ள உதவுதல்.</p>
+<p style="text-align:justify; text-justify: inter-word">பெரும்பாலும் பள்ளிகளில் தன்னார்வ நிறுவனங்கள்,பெரிய தொழில்  நிறுவனங்கள் போன்றோரின்  தலையீடுகள்  முதல் வகையைச் சேர்ந்தவை. ஒப்பீட்டளவில் குறைந்த முயற்சிகள் இரண்டாவது வகை ஆதரவில் இருந்தாலும், தொழில் பயிற்சி நிறுவனங்கள்,   கல்லூரி கல்விக்கு நிதி அளிக்கும் தொண்டு நிறுவனங்கள் இந்த இடத்தில் செயல்படுகின்றன.</p>
 
-<p style="text-align:justify; text-justify: inter-word">[<span style="text-decoration: underline">Click here</span>](../working/) for a detailed note on this subject where we have outlined a proposal for taking up the second type of intervention with schools in a systematic manner.</p>
+<p style="text-align:justify; text-justify: inter-word">இரண்டாவது வகையான தலையீட்டை பள்ளிகளுடன் முறையாக மேற்கொள்வதற்கான எங்களுடைய முன்மொழிவை குறித்த விரிவான குறிப்பைக் காண [<span style="text-decoration: underline">இங்கே</span>](../working/) கிளிக் செய்யவும்.</p>
  
-<p style="text-align:justify; text-justify: inter-word">Below are  listed some activities that the Foundation has  pursued with some of the schools in the  Chennai region over time.Much of our efforts in this regard have been with the Avvai Home   and Girls' School in Adyar which is where Ms. Rajalakshmi had initiated an carried out her work during 2003-2013, and which our Foundation has attempted to take forward.</p>
+<p style="text-align:justify; text-justify: inter-word">சென்னை மண்டலத்தில் உள்ள சில பள்ளிகளுடன் அறக்கட்டளை பின்பற்றிய சில நடவடிக்கைகள் கீழே பட்டியலிடப்பட்டுள்ளன. இது சம்பந்தமான பெரும்பாலான முயற்சிகள், 2003-2013 ஆண்டு வரை திருமதி ராஜலட்சுமி அவர்கள் தனது பணியைத் தொடங்கிய அடையாறில் உள்ள அவ்வை இல்லம் மற்றும் பெண்கள் பள்ளியில் மேற்கொள்ளப் பட்டன.</p>
 
-<p style="text-align: center;"><strong>Supplementing and Complementing Classroom work</strong></p>
+<p style="text-align: center;"><strong>வகுப்பறைப் பணிகளை நிரப்புதல் மற்றும் துணை நிற்றல்</strong></p>
 
-<em>Coaching  Classes for classes 11 and 12:</em>
+<em>11 மற்றும் 12-ம் வகுப்புகளுக்கான பயிற்சி வகுப்புகள்:</em>
 <br>
-<p style="text-align:justify; text-justify: inter-word">Evening classes had been held by the Foundation for Avvai Home Children to help them do better in their examinations. Dr. Kamalam Parthasarathi, Dr. Sujatha Balakrishnan, Mrs. N. Shanthi, Mrs. Deepa Krishnamurthy, Mrs. Priya Ramkumar and Dr. Chitra K Natarajan were some of our members and associates who had helped with this. We helped them in preparing for their board exams, as well as offered guidance regarding their career option.</p>
+<p style="text-align:justify; text-justify: inter-word">அவ்வை இல்லக் குழந்தைகள் தேர்வுகளில் சிறந்து விளங்குவதற்காக மாலை நேர வகுப்புகள்  அறக்கட்டளையால் நடத்தப்பட்டது. டாக்டர் கமலம் பார்த்தசாரதி, டாக்டர் சுஜாதா பாலகிருஷ்ணன், திருமதி என். சாந்தி, திருமதி தீபா கிருஷ்ணமூர்த்தி, திருமதி பிரியா ராம்குமார், டாக்டர் சித்ரா கே. நடராஜன் போன்ற நமது உறுப்பினர்கள் மற்றும் தன்னார்வலர்கள் இதற்கு உதவினர். அவர்கள் தங்கள்  தேர்வுக்குத் தயாராவதற்கு உதவி செய்ததுடன் அவர்களின் தொழில் விருப்பத்தைப் பற்றிய வழிகாட்டுதலையும் வழங்கினோம்.</p>
 
-<em>Coaching classes for  Classes 6,7 and 8:</em>
+<em>6, 7 மற்றும் 8ஆம் வகுப்புக்கான பயிற்சி வகுப்புகள்:</em>
 <br>
-<p style="text-align:justify; text-justify: inter-word">We conducted English and Mathematics classes for the classes 6,7 and 8 of Avvai Home from 4 p.m. to 5 p.m. on all working days with the assistance of volunteers from Ethiraj College for Women for two years from 2014 to 2016. The aim of these classes was to develop language and communication skills of the students and to make learning mathematics more effective and interesting. There were 20 volunteers from Ethiraj College involved in teaching the children.</p>
+<p style="text-align:justify; text-justify: inter-word">2014 முதல் 2016 வரை இரண்டு ஆண்டுகளுக்கு எத்திராஜ் மகளிர் கல்லூரியின் தன்னார்வலர்களின் உதவியுடன் அனைத்து வேலை நாட்களிலும் மாலை 4 மணி முதல் 5 மணி வரை அவ்வை இல்லத்தின் 6,7 மற்றும் 8 வகுப்புகளுக்கு ஆங்கிலம் மற்றும கணிதம் வகுப்புகளை நடத்தினோம்.  இந்த வகுப்புகளின் நோக்கம் மாணவர்களின் மொழி மற்றும் தகவல் தொடர்பு திறன்களை மேம்படுத்துவது மற்றும் கணிதம் கற்றலை மேலும் பயனுள்ளதாகவும் சுவாரஸ்யமானதாகவும் ஆக்குவதாக இருந்தது. எத்திராஜ் கல்லூரியைச் சேர்ந்த 20 தன்னார்வலர்கள் பங்கேற்று குழந்தைகளுக்கு கற்பித்தனர்.</p>
 
-<em>English and Craft Classes:</em>
+<em>ஆங்கிலம் மற்றும் கைவினைப் பயிற்சி வகுப்புகள்:</em>
 <br>
-<p style="text-align:justify; text-justify: inter-word">We helped the hostel students of  Seva Sadan, Chetpet every Saturday for a year during 2014-15 in improving their communication skills and reading habits through English classes and story telling sessions and also engaged them in craft and cultural activities. Our volunteers for this programme were Dr.V.Vijayalakshmi, Dr. Bagavathi, Mrs. Annapoorni Shankar and Mrs. N. Shanthi.</p>
+<p style="text-align:justify; text-justify: inter-word">2014-15 ஆம் ஆண்டில், ஒவ்வொரு சனிக்கிழமையும் சேவா சதனின் (Chetpet) விடுதி மாணவர்களுக்கு ஆங்கில வகுப்புகள் மற்றும் கதை சொல்லும் அமர்வுகள் மூலம் அவர்களின் தகவல் தொடர்புத் திறன் மற்றும் வாசிப்புப் பழக்கத்தை மேம்படுத்தி, கைவினை மற்றும் கலாச்சார நடவடிக்கைகளில் அவர்களை ஈடுபடுத்தினோம். இந்த நிகழ்ச்சிக்கு எங்கள் தன்னர்வலர்கள்  டாக்டர் வி. விஜயலட்சுமி, டாக்டர் பகவதி, திருமதி அன்னபூரணி சங்கர், மற்றும் திருமதி என். சாந்தி ஆகியோர் உதவினார்கள்.</p>
 
-<em>English and Soft Skill classes:</em>
+<em>ஆங்கிலம் மற்றும் மென்திறன் வகுப்புகள்:</em>
 <br>
-<p style="text-align:justify; text-justify: inter-word">The Foundation conducted a 15 day course in April- May from 2014 to 2017, 3 hours everyday, for Class 12 students of Avvai Home after their exams to prepare them for higher studies or employment by improving their communication and soft skills. Mrs. Sreela Kaushik designed the content of the course, and the classes were conducted by Mrs. Sreela Kaushik, Mrs. Ranjani Vardhan, Mrs. Annapoorni Shankar and Mrs. N.Shanthi.</p>
+<p style="text-align:justify; text-justify: inter-word">அவ்வை இல்லத்தைச் சேர்ந்த 12 ஆம் வகுப்பு மாணவர்களுக்கு அவர்களின் தேர்வுகளுக்குப் பிறகு ஏப்ரல் - மே 2014 முதல் 2017 வரை, அவர்களின் தகவல் தொடர்பு மற்றும் மென் திறன்களை மேம்படுத்தி,அதன் மூலம் உயர் படிப்பு அல்லது வேலைவாய்ப்பிற்கு அவர்களை தயார்படுத்த  15 நாள் தினமும் 3 மணி நேரம் பயிற்சியை இந்த அறக்கட்டளை நடத்தியது. திருமதி ஸ்ரீலா கௌசிக் பாடத்திட்டத்தின் உள்ளடக்கத்தை வடிவமைத்தார், மேலும் திருமதி ஸ்ரீலா கௌசிக், திருமதி ரஞ்சனி வர்தன், திருமதி அன்னபூர்ணி சங்கர் மற்றும் திருமதி என்.சாந்தி ஆகியோரால் வகுப்புகள் நடத்தப்பட்டன.</p>
 
 
-<strong>Setting up School Libraries</strong>
+<strong>பள்ளி நூலகங்களை அமைத்தல்</strong>
 <br>
-<p style="text-align:justify; text-justify: inter-word">We helped with shifting the library at the TVR High School from the old premises to the new premises in October 2015. Our Foundation has organised, classified and arranged the library at the new premises.  Mrs. Shanthi from the Foundation has been involved in setting up and running the Library  in Avvai Home from 2015 onwards.</p>
+<p style="text-align:justify; text-justify: inter-word">அக்டோபர் 2015 இல் TVR உயர்நிலைப் பள்ளியில் உள்ள நூலகத்தை பழைய வளாகத்தில் இருந்து புதிய வளாகத்திற்கு மாற்ற உதவினோம். எங்கள் அறக்கட்டளை புதிய வளாகத்தில் நூலகத்தை வடிவமை, வகைப்படுத்தி, ஏற்பாடு செய்துள்ளது. அறக்கட்டளையைச் சேர்ந்த திருமதி சாந்தி அவர்கள் 2015 ஆம் ஆண்டு முதல் அவ்வை இல்லத்தில் நூலகத்தை  நடத்தும் பணியில் ஈடுபட்டுள்ளார்.</p>
 
-<strong>Story Telling Sessions for Class 6,7 and 8 Students</strong>
+<strong>6,7 மற்றும் 8 ஆம் வகுப்பு மாணவர்களுக்கான கதை சொல்லும் அமர்வுகள்</strong>
 <br>
-<p style="text-align:justify; text-justify: inter-word">The Foundation organised story telling sessions for class 6,7 and 8 of TVR High School and Avvai Home with the help of volunteers from Ehiraj Collegefor Women. A story telling session with Dr. Sandhya Reuban was organised for the students. A training session by Mr. Kumar was organised for the volunteers from Ethiraj College.</p>
+<p style="text-align:justify; text-justify: inter-word">அறக்கட்டளையானது TVR உயர்நிலைப் பள்ளி மற்றும் அவ்வை இல்லத்தின் 6,7 மற்றும் 8 ஆம் வகுப்புகளுக்கான கதை சொல்லும் அமர்வுகளை எத்திராஜ் மகளிர் கல்லூரியின் தன்னார்வலர்களின் உதவியுடன் ஏற்பாடு செய்தது. மாணவர்களுக்காக டாக்டர் சந்தியா ரூபனுடன் கதை சொல்லும் அமர்வு ஏற்பாடு செய்யப்பட்டிருந்தது. எத்திராஜ் கல்லூரியின் தன்னார்வலர்களுக்கு திரு.குமார் அவர்களின் பயிற்சி வகுப்பு ஏற்பாடு செய்யப்பட்டிருந்தது.</p>
 
-<strong>Quiz for Avvai Home Students</strong>
+<strong>அவ்வை இல்ல மாணவர்களுக்கான வினாடிவினா</strong>
 <br>
-<p style="text-align:justify; text-justify: inter-word">During Covid lock down period, RSMF conducted General Quiz and Maths Quiz online every week for Avvai Home students in which the students participated with enthusiasm.</p>
+<p style="text-align:justify; text-justify: inter-word">கொரொனா பெருந்தொற்று முடக்க காலத்தில், RSMF  ஒவ்வொரு வாரமும் அவ்வை இல்ல மாணவர்களுக்காக ஆன்லைனில் பொது வினாடி வினா மற்றும் கணித வினாடி வினாக்களை நடத்தியது. இதில் மாணவர்கள் ஆர்வத்துடன் கலந்து கொண்டனர்.</p>
 
-<strong>Report on Vocational Courses and Institutes</strong>
+<strong>தொழிற்கல்வி மற்றும் நிறுவனங்கள் குறித்த அறிக்கை</strong>
 <br>
-<p style="text-align:justify; text-justify: inter-word">Our Foundation realises the importance of  Vocational Education and Career Guidance for students from the less privileged sections of our society. Efforts were made to prepare a comprehensive Report on Vocational Courses and Institutes in the Chennai region , and this was carried out  by our  former Programme Coordinator Mr. Deepak. It is proposed to expand this work as well as try and network them with schools and other stake holders.</p>
+<p style="text-align:justify; text-justify: inter-word">எங்கள் அறக்கட்டளை நமது சமூகத்தின் நலிந்த பிரிவு மாணவர்களுக்கான தொழில் கல்வி மற்றும் தொழில் வழிகாட்டுதலின் முக்கியத்துவத்தை உணர்ந்துள்ளது. சென்னை மண்டலத்தில் தொழிற்கல்வி மற்றும் கல்வி நிறுவனங்கள் குறித்த விரிவான அறிக்கை தயாரிக்க முயற்சிகள் மேற்கொள்ளப்பட்டன.  இதனை நமது முன்னாள் திட்ட ஒருங்கிணைப்பாளர் திரு தீபக் அவர்கள் மேற்கொண்டார். இப்பணியை விரிவுபடுத்துவதுடன், பள்ளிகள் மற்றும் இதர பங்குதாரர்களுடன் அவற்றை இணைக்கவும் திட்டமிடப்பட்டுள்ளது.</p>
 
-<strong>Hostel Fees for College Students</strong>
+<strong>கல்லூரி மாணவிகளுக்கான விடுதிக் கட்டணம்</strong>
 <br>
-<p style="text-align:justify; text-justify: inter-word">Our Foundation works to empower girl students from under privileged backgrounds by assisting and supporting their education beyond school. Some students need financial support to stay in a suitable hostel during the time of their college studies. Our Foundation has been meeting the hostel fees of a few of the meritorious students from under privileged background for the past three years to enable them to complete their college education and become financially independent. It also provides counseling and career guidance to these students and mentor them.</p>
+<p style="text-align:justify; text-justify: inter-word">எங்கள் அறக்கட்டளை பள்ளியைத் தாண்டி அவர்களின் கல்விக்கு உதவுவதன் மூலம் மற்றும் ஆதரவளிப்பதன் மூலம் நலிந்த  பின்னணியில் இருந்து வரும் மாணவிகளுக்கு அதிகாரம் அளிக்க செயல்படுகிறது. சில மாணவர்களுக்கு கல்லூரி படிக்கும் காலத்தில் பொருத்தமான விடுதியில் தங்குவதற்கு நிதி உதவி தேவைப்படுகிறது. நமது அறக்கட்டளை கடந்த மூன்று ஆண்டுகளாக பொருளாதாரத்தில் பின்தங்கிய பின்னணியில் உள்ள ஒரு சில சிறந்த மாணவர்களின் விடுதிக் கட்டணங்களை ஏற்று, அவர்கள் கல்லூரிக் கல்வியை முடித்து, பொருளாதார ரீதியாக தன்னிறைவு பெற வழிவகை செய்து வருகிறது. மேலும், இந்த மாணவர்களுக்கு ஆலோசனை மற்றும் தொழில் வழிகாட்டுதல்களை வழங்கி, அவர்களுக்கு வழிகாட்டுகிறது.</p>
 
-<strong>Tamil Translation of Dr. Muthulakshmi Reddy’s Autobiography</strong>
+<strong>டாக்டர் முத்துலட்சுமி ரெட்டியின் சுயசரிதையின் தமிழ் மொழிபெயர்ப்பு</strong>
 <br>
-<p style="text-align:justify; text-justify: inter-word">The Autobiography of Dr. Muthulakshmi Reddy, the founder of Avvai Home, was first published in English in 1964, and is an authentic record of the multifaceted and rich life Dr.Reddy led as a true pioneer in many fields – covering all aspects such as personal, family, professional, scientific, educational, social, cultural and political. Though narrated as the story of one person, the book covers a breath taking canvass of events, personalities, relationships, institutions and movements spread over 6 decades and more - a period that has profoundly impacted on the destiny of our nation. The  [<span style="text-decoration: underline">Tamil Translation</span>](../dmrbook/) of this important work was carried out by Prof. S. Rajalakshmi during 2012-13, and was  published jointly by Avvai Home and our Foundation, with the support of Cre-A Publishers, and was [<span style="text-decoration: underline">formally released</span>](../avvaihome/) on 30th July 2014. </p>
+<p style="text-align:justify; text-justify: inter-word">அவ்வை இல்லத்தின் நிறுவனர், டாக்டர் முத்துலட்சுமி ரெட்டியின் சுயசரிதை 1964 - ல் ஆங்கிலத்தில் முதலில் பிரசுரிக்கப்பட்டது. இந்த புத்தகம்  டாக்டர் ரெட்டியின் பன்முக மற்றும் வளமான வாழ்க்கையின் உண்மையான பதிவு . டாக்டர் ரெட்டி எழுதிய இந்த நூலில் தனிநபர், குடும்பம், தொழில்முறை, அறிவியல், கல்வி, சமூகம், கலாசாரம், அரசியல் என அனைத்து அம்சங்களும் இடம்பெற்றிருந்தன. ஒரு நபரின் கதை என்று விவரிக்கப்பட்டாலும், இந்த புத்தகம் ஆறு தசாப்தங்கள் மற்றும் அதற்கு மேற்பட்ட காலப்பகுதியில் பரவிய நிகழ்வுகள், ஆளுமைகள், உறவுகள், நிறுவனங்கள் மற்றும் இயக்கங்கள் ஆகியவற்றை உள்ளடக்கியது. இந்த முக்கியமான படைப்பின் [<span style="text-decoration: underline">தமிழ் மொழியாக்கம்</span>](../dmrbook/) 2012-13 ஆம் ஆண்டில் பேராசிரியர் எஸ்.ராஜலட்சுமி அவர்களால் மேற்கொள்ளப்பட்டது. அவ்வை இல்லமும் எங்கள் அறக்கட்டளையும் இணைந்து Cre-A பதிப்பகங்களின் ஆதரவுடன் 30 ஜூலை  2014 ஆம் ஆண்டு  [<span style="text-decoration: underline">வெளியிடப்பட்டது</span>](../avvaihome/).</p>
 
 
-<p style="text-align: center;"><strong>Our Story Cards Program</strong></p>
+<p style="text-align: center;"><strong>கதை அட்டைகள் வெளியீடு</strong></p>
 
-<p style="text-align:justify; text-justify: inter-word">Our program on Story Cards in multiple languages, detailed [<span style="text-decoration: underline">here</span>](../story/) is primarily aimed at improving the reading and comprehension abilities of underprivileged children.</p>
+<p style="text-align:justify; text-justify: inter-word">பொருளாதாரத்தில் பின் தங்கிய  குழந்தைகளின் வாசிப்பு மற்றும் புரிந்து கொள்ளும் திறனை மேம்படுத்துவதை முதன்மை நோக்கமாகக் கொண்டு, எங்களால் பல மொழிகளில் வெளியிடப்பட்டுள்ள கதை அட்டைகள்  பற்றி  [<span style="text-decoration: underline">இங்கே</span>](../story/) விவரிக்கப்பட்டுள்ளது.</p>
 
 <p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
 
