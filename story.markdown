@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Story Cards
+title: கதை அட்டைகள்
 permalink: story/
 ---
-<p style="text-align: center;"><strong>The Story Cards Program</strong></p>
+<p style="text-align: center;"><strong>எங்கள் கதை அட்டைகள் திட்டம்</strong></p>
 
-<p style="text-align:justify; text-justify: inter-word">A large number of children in rural schools are first generation learners without books at home or access to good libraries. Text books are the only reading material available to them.</p>
-<p style="text-align:justify; text-justify: inter-word">There is a growing body of research which says that when children have access to a wide variety of stories their reading skills improve and they learn language with ease. Yet there is a dearth of easily accessible story books and supplementary reading materials in most primary schools.</p>   
-<p style="text-align:justify; text-justify: inter-word">The aim of the story cards project is to promote reading among underprivileged children in schools. One Story Card set is a collection of 100 illustrated four page A-3 sized laminated reading cards with  stories from India and many other countries. It includes traditional folktales as well as modern stories, nature stories and stories about everyday experience. Interspersed among the stories are groups of riddles requiring ingenuity and careful thinking for their solution.</p>
-<p style="text-align:justify; text-justify: inter-word">The story cards were originally published in Tamil, in 2003, as “Kathai Aruvi.”  The collection was born out of the desire of four educationists, Ms. P. Saraswati, Ms. V. Vijayakanthi, Dr. L.S. Saraswathi and Prof. S. Rajalakshmi, to provide rural children with access to good reading material. Subsequently they were brought out in other Indian languages (Hindi, Marathi, Kannada Oriya) called “Katha Jharna”, and in English called “A Cascade of Stories”.</p>
-<p style="text-align:justify; text-justify: inter-word">The preparation of the cards included collection, review and analysis of a large number of folktales and other traditional stories from within and outside of India. Those that were chosen were adapted keeping in mind the four page format of the cards. Great importance was given to illustrations in order to provide the right setting and bring each story to life.</p>
-<p style="text-align:justify; text-justify: inter-word">The collection also included 8 cards with riddles commonly told in Tamil Nadu. The riddles are grouped by topic – animals, birds, trees, insects, etc.</p>
-<p style="text-align:justify; text-justify: inter-word">Overall, the project took more than a year and a half to complete, including research, writing, field testing and rewriting. The first Tamil edition was published by Chatnath Trust, Chennai.</p>
+<p style="text-align:justify; text-justify: inter-word">கிராமப்புறப் பள்ளிகளில் ஏராளமான குழந்தைகள் முதல் தலைமுறையாகப் படிக்கிறார்கள்.  வீட்டில் புத்தகங்கள் இல்லாமல், நல்ல நூலகங்கள் கிடைக்காமல் அவர்களுக்கு கிடைக்கும் ஒரே வாசிப்புப் பொருள் பாடப் புத்தகங்கள்தான்.</p>
+<p style="text-align:justify; text-justify: inter-word">குழந்தைகள் பல்வேறு கதைகளை அணுகும்போது அவர்களின் வாசிப்புத் திறன் மேம்படுகிறது, அவர்கள் மொழியை எளிதாகக் கற்றுக்கொள்கின்றனர் என்று வளரும் ஆராய்ச்சி அமைப்பு கூறுகிறது. இருப்பினும், பெரும்பாலான ஆரம்ப பள்ளிகளில் எளிதில் கிடைக்கக்கூடிய கதை புத்தகங்கள் மற்றும் துணை வாசிப்பு பொருட்களில் பற்றாக்குறை உள்ளது.</p>   
+<p style="text-align:justify; text-justify: inter-word">கதை அட்டை திட்டத்தின் நோக்கம் பள்ளிகளில் வசதியற்ற குழந்தைகள் மத்தியில் வாசிப்பை ஊக்குவிப்பதாகும். கதை அட்டை தொகுப்பு என்பது இந்தியா மற்றும் பல நாடுகளிலிருந்து  வரும் கதைகள் கொண்ட நான்கு பக்க A-3 அளவு 100 லேமினேட்டட் விளக்கப் பட கதை  அட்டைகளின் தொகுப்பாகும். பாரம்பரிய நாட்டுப்புறக் கதைகள், நவீன கதைகள், இயற்கை கதைகள் மற்றும் அன்றாட அனுபவத்தைப் பற்றிய கதைகள் இதில் அடங்கும். கதைகளில் புதிர்களின் குழுக்கள் உள்ளன. அவற்றின் தீர்வுக்கு புத்திசாலித்தனமும் கவனமான சிந்தனையும் தேவை.</p>
+<p style="text-align:justify; text-justify: inter-word">கதை அட்டைகள் முதலில் தமிழில், 2003ல், கதை அருவி என்ற பெயரில் வெளியானது. கிராமப்புற குழந்தைகளுக்கு நல்ல வாசிப்புப் பொருட்களை வழங்க வேண்டும் என்ற கல்வியாளர்களான செல்வி.பி.சரஸ்வதி, செல்வி.வி. விஜயகாந்தி, முனைவர் எல்.எஸ்.சரஸ்வதி, பேராசிரியர் எஸ்.ராஜலட்சுமி ஆகிய நான்கு பேரின் விருப்பத்தின் அடிப்படையில் இந்த தொகுப்பு உருவானது. பின்னர் அவை பிற இந்திய மொழிகளில் (இந்தி, மராத்தி, கன்னடம், ஒரியா) 'கதா ஜர்னா' என்றும், ஆங்கிலத்தில் 'எ கேஸ்கேட் ஆஃப் ஸ்டோரீஸ்' என்றும் அழைக்கப்பட்டன.</p>
+<p style="text-align:justify; text-justify: inter-word">இந்த அட்டைகளைத் உற்பத்தி செய்ய இந்தியாவுக்கு உள்ளேயும் வெளியேயும் உள்ள கதைகள் தேர்வு செய்யப்பட்டன.  ஏராளமான நாட்டுப்புறக் கதைகள் மற்றும் பிற பாரம்பரிய கதைகளின் தொகுப்பு கள மதிப்பாய்வு மற்றும் பகுப்பாய்வு செய்தார்கள். தேர்ந்தெடுக்கப்பட்டவை அட்டைகளின் நான்கு பக்க வடிவத்தை மனதில் கொண்டு மாற்றியமைக்கப்பட்டன. சரியான சூழலை அளிப்பதற்கும் ஒவ்வொரு கதையையும் உயிர்ப்பிப்பதற்கும் காட்சி வடிவமைப்பிற்கு அதிக முக்கியத்துவம் கொடுக்கப்பட்டது.</p>
+<p style="text-align:justify; text-justify: inter-word">இந்த அட்டைகளைத் உற்பத்தி செய்ய இந்தியாவுக்கு உள்ளேயும் வெளியேயும் உள்ள கதைகள் தேர்வு செய்யப்பட்டன.  ஏராளமான நாட்டுப்புறக் கதைகள் மற்றும் பிற பாரம்பரிய கதைகளின் தொகுப்பு கள மதிப்பாய்வு மற்றும் பகுப்பாய்வு செய்தார்கள். தேர்ந்தெடுக்கப்பட்டவை அட்டைகளின் நான்கு பக்க வடிவத்தை மனதில் கொண்டு மாற்றியமைக்கப்பட்டன. சரியான சூழலை அளிப்பதற்கும் ஒவ்வொரு கதையையும் உயிர்ப்பிப்பதற்கும் காட்சி வடிவமைப்பிற்கு அதிக முக்கியத்துவம் கொடுக்கப்பட்டது.</p>
+<p style="text-align:justify; text-justify: inter-word">மொத்தத்தில் ஆய்வு, எழுதுதல், களப் பரிசோதனை, மீண்டும் எழுதுதல் என ஒன்றரை ஆண்டுகளுக்கும் மேலாக, இந்தத் திட்டம் மேற்கொள்ளப்பட்டது. முதல் தமிழ்ப் பதிப்பு சென்னை சட்னாத் அறக்கட்டளையால் (Chatnath Trust) வெளியிடப்பட்டது.</p>
 
-The Story Cards are presently available in **Tamil, Hindi, English,Kannada, Marathi and Oriya**.
+**தமிழ், இந்தி, ஆங்கிலம், கன்னடம், மராத்தி மற்றும் ஒரியா** மொழிகளில் இந்த அட்டைகள் கிடைக்கின்றன.
 
 
 
@@ -21,76 +21,76 @@ The Story Cards are presently available in **Tamil, Hindi, English,Kannada, Mara
 ![](../assets/images/story_cards_1.jpg)  |  ![](../assets/images/story_cards_2.jpg)
 
 
-**Features of the Story Cards**
- - The collection is printed on laminated A3 cards folded into 4-sided booklets.
- - The cards are sturdy enough for intensive hands-on use.
- - Several groups of children in a classroom can use them simultaneously.
- - With students of younger ages, they can be read aloud by the teacher and used as the basis for skits, activities or games.
- - The stories are in bold print with colourful illustrations and the aim was to bring good quality reading material at reasonable cost within the reach of under-privileged children.
- - The stories are written in simple language for primary classes and serve as attractive supplementary reading materials
+**கதை அட்டைகளின் அம்சங்கள்**
+ - இந்தத தொகுப்பு லேமினேட்டட் ஏ3 அட்டைகளில் 4 பக்க சிறு புத்தகங்களாக மடிக்கப்படுகிறது.
+ - இந்த அட்டைகள் தீவிர பயன்பாட்டை தாங்கும் வகையில் போதுமான அளவு உறுதியானவை.
+ - ஒரு வகுப்பறையில் உள்ள குழந்தைகளின் பல குழுக்கள் அவற்றை ஒரே நேரத்தில் பயன்படுத்தலாம்.
+ - இளம் வயது மாணவர்களுடன்,  ஆசிரியர் கடை அட்டைகளைச் சத்தமாக வாசிக்கலாம் மற்றும், நாடகம் அல்லது விளையாட்டுகளுக்கு அடிப்படையாக பயன்படுத்தலாம்.
+ - இக்கதைகள் வண்ணமயமான படங்களுடன் கூடிய பெரிய அச்சில் அமைந்துள்ளன. பொருளாதாரத்தில் பின் தங்கிய குழந்தைகளைச் சென்றடையும் வகையில் நியாயமான விலையில் தரமான வாசிப்புப் பொருட்களைக் கொண்டு வருவது இதன் நோக்கமாகும்.
+ - இக்கதைகள் ஆரம்ப வகுப்புகளுக்காக எளிய மொழியில் எழுதப்பட்டு, கவர்ச்சிகரமான துணை வாசிப்புப் பொருட்களாக பயன்படுகின்றன.
 
 
 <p align="center">
   <img src="../assets/images/story_cards_3.jpg">
   <br>
   <br>
-  <em>From a village school in Tamil Nadu</em>
+  <em>தமிழ்நாட்டில் உள்ள ஒரு கிராமப் பள்ளியில் இருந்து</em>
 </p>
 
 
-**The Impact of the Story Cards**
+**கதை அட்டைகளின் தாக்கம்**
 
- - <p style="text-align:justify; text-justify: inter-word">Many teachers and parents saw Kathai Aruvi as a priceless collection. Though the story cards were originally conceived to meet the educational needs of children in Tamil Medium Schools, they had a universal appeal cutting across language and cultural barriers.</p>
- - <p style="text-align:justify; text-justify: inter-word">The stories were translated and published in Hindi in 2008 when Room To Read, New Delhi, wanted to distribute a few thousand sets to its libraries and projects in Northern India. It was translated into Kannada by teachers of TVS academy, Tumkur, Karnataka in 2007. The Kannada stories were published in card format much later in 2018.  America India Foundation got some stories translated into Odiya, Gujarati, and tribal languages for distribution to govt. schools and those were published in 2012.  Parag,Tata Trust has supported the translation of the cards into Marathi in 2021.</p>
- - <p style="text-align:justify; text-justify: inter-word">The Association for the Blind, Madurai, Tamil Nadu has brought out the stories in Braille and has been using them for several years. The story cards have been used in adult literacy centres to develop interest in reading and writing among neo-literates.</p>
- - <p style="text-align:justify; text-justify: inter-word">Katha Jharna, the Hindi story card set, is one of the “Recommended Books” for Kendriya Vidyalaya Schools. </p> 
- - <p style="text-align:justify; text-justify: inter-word">More than 13,000 sets of KathaiAruvi/Katha Jharna have reached different corners of the country over the years impacting over a lakh of children. A number of organizations like Save the Children Fund, Room To Read, AIF,  Azim Premji Foundation, OELP,  Doosra Dashak, Tata Trust, India Literacy Project  to name a few, have distributed the Kathai Aruvi and Katha Jharna story cards sets free of cost to several government schools and libraries in remote areas, across the country. A few corporates too have sponsored the story cards sets to govt. schools in various blocks of Tamil Nadu.</p>
+ - <p style="text-align:justify; text-justify: inter-word">பல ஆசிரியர்களும் பெற்றோர்களும் கதை அருவியை விலைமதிப்பற்ற தொகுப்பாக பார்த்தனர். தமிழ்வழிப் பள்ளிகளில் பயிலும் குழந்தைகளின் கல்வித் தேவைகளைப் பூர்த்தி செய்யும் வகையில் கதை அட்டைகள் உருவாக்கப்பட்டன.</p>
+ - <p style="text-align:justify; text-justify: inter-word">Room to Read, New Delhi (ரூம் டு ரீட் புதுதில்லி), வட இந்தியாவில் உள்ள அதன் நூலகங்கள் மற்றும் திட்டங்களுக்கு சில ஆயிரம் கதை புத்தகங்கள் விநியோகிக்க விரும்பியது.  அப்போது இந்தக் கதைகள் 2008-ல் இந்தியில் மொழியாக்கம் செய்யப்பட்டு வெளியிடப்பட்டன. கர்நாடக மாநிலம் தும்கூரில் உள்ள டி. வி. எஸ் அகாடமியின் ஆசிரியர்களால் 2007-ம் ஆண்டு கன்னடத்தில் மொழிபெயர்க்கப்பட்டது. பின்னர் 2018 இல், கன்னட கதைகள் அட்டை வடிவத்தில் வெளியிடப்பட்டன. அமெரிக்க இந்திய அறக்கட்டளை ஒடியா, குஜராத்தி மற்றும் பழங்குடி மொழிகளில் சில கதைகளை அரசுக்கு விநியோகிப்பதற்காக மொழிபெயர்த்தது. அவை 2012 இல் வெளியிடப்பட்டன. Parag, Tata Trust (பராக், டாடா டிரஸ்ட்) 2021 ஆம் ஆண்டில் அட்டைகளை மராத்தியில் மொழிபெயர்க்க ஆதரவு அளித்துள்ளது.</p>
+ - <p style="text-align:justify; text-justify: inter-word">மதுரையிலுள்ள பார்வையற்றோர் சங்கம்,   பிரெய்லியில் கதைகளை வெளிக்கொண்டு வந்து பல ஆண்டுகளாகப் பயன்படுத்தி வருகிறது. கதை அட்டைகள் வயது வந்தோர் எழுத்தறிவு மையங்களில் புதிய எழுத்தறிவு பெற்றவர்களிடையே வாசிப்பு மற்றும் எழுதுவதில் ஆர்வத்தை வளர்க்க பயன்படுத்தப்படுகின்றன.</p>
+ - <p style="text-align:justify; text-justify: inter-word">'கதா ஜர்னா’, இந்தி கதை அட்டை தொகுப்பு, கேந்திரிய வித்யாலயா பள்ளிகளுக்கான பரிந்துரைக்கப்பட்ட புத்தகங்களில் ஒன்றாகும். </p> 
+ - <p style="text-align:justify; text-justify: inter-word">நாட்டின் பல்வேறு பகுதிகளில் 13,000 தொகுப்புகளின் (Kathai Aruvi/கதா ஜர்னா) வழியாக ஒரு லட்சத்துக்கும் மேற்பட்ட குழந்தைகளுக்கு கல்வி புகட்டப்பட்டுள்ளது.
+Save the Children Fund, Room to Read, AIF, Azim Premji Foundation, OELP, Doosra Dashak, Tata Trust, India Literacy Project போன்ற பல அமைப்புகள் இந்த கதை அட்டைகளை நாடு முழுவதும் உள்ள தொலைதூரப் பகுதிகளில் உள்ள பல அரசு பள்ளிகள் மற்றும் நூலகங்களுக்கு இலவசமாக விநியோகித்துள்ளன.
+சில கார்ப்பரேட் நிறுவனங்களும் தமிழகத்தின் பல்வேறு வட்டாரங்களில் உள்ள பள்ளிகளுக்கு இந்த கதை அட்டைகளை அரசுக்கு வழங்கியுள்ளன.</p>
 
  <p align="center">
   <img width="60%" src="../assets/images/story_cards_4.jpg">
   <br>
   <br>
-  <em>From a Tribal village in Rajasthan</em>
+  <em>ராஜஸ்தானில் உள்ள ஒரு பழங்குடி கிராமத்திலிருந்து</em>
 </p>
 
- <!-- - <p style="text-align:justify; text-justify: inter-word">The collection of stories  in Hindi were shared online during the pandemic to facilitate learning of the children in the following link: [<span style="text-decoration: underline">https://rajifoundation.in/storycards/hindi/index.html</span>](storycards/hindi/index.html)</p> -->
-
-<!-- <p style="text-align:justify; text-justify: inter-word">Several schools, including KV s and NGOs have reported that the link was extremely useful to them during the pandemic to interact with the children.</p> -->
- - <p style="text-align:justify; text-justify: inter-word">The Tamil story cards were distributed to a wide range of children’s homes and orphanages in Tamil Nadu in collaboration with Dept. of Social Defence, TN.</p>
- - <p style="text-align:justify; text-justify: inter-word">Recently, based on requests from several educationists, Kathai Aruvi was translated into English for the benefit of English learners. The English story cards called, A Cascade of Stories, was published in 2022</p>
+ - <p style="text-align:justify; text-justify: inter-word">தமிழ்நாடு சமூக பாதுகாப்புத் துறையுடன் இணைந்து தமிழ்நாட்டிலுள்ள பல்வேறு குழந்தைகள் இல்லங்கள் மற்றும் அனாதை இல்லங்களுக்கு தமிழ் கதை அட்டைகள் வழங்கப்பட்டன.</p>
+ - <p style="text-align:justify; text-justify: inter-word">அண்மையில், பல கல்வியாளர்களின் கோரிக்கைகளின் அடிப்படையில், கதை அருவி ஆங்கிலக் ஆங்கிலம் கற்றவர்களுக்காக ஆங்கிலத்தில் மொழிபெயர்க்கப்பட்டு, 'A Cascade of Stories' என்ற ஆங்கில கதை அட்டைகளாக 2022-ல் வெளியிடப்பட்டன.</p>
 
 <br>
 <p align="center">
   <img width="80%" src="../assets/images/story_cards_9.jpg">
   <br>
   <br>
-  <em>English Story Cards</em>
+  <em>ஆங்கில கதை அட்டைகள்</em>
 </p>
 
 
-**Feedback and Media Coverage**
+**ஊடகம் (Media coverage)**
 
-<p style="text-align:justify; text-justify: inter-word">There were articles written on ‘Kathai Aruvi’ story cards in leading newspapers ‘The Hindu’; ‘Economic Times’, 'Times of India'  and Tamil Dailies such as ‘Dinakaran’ and ‘Dinamani’ and a weekly magazine ‘Kalki’ in the year of its publication 2003. More recently Hindu published an article in the year 2019 about the Kannada story cards –</p>
+<p style="text-align:justify; text-justify: inter-word">'தி இந்து' நாளிதழில் 'கதை அருவி' கதை அட்டைகள் குறித்து கட்டுரைகள் எழுதப்பட்டன. 'பொருளாதார டைம்ஸ்', 'டைம்ஸ் ஆஃப் இந்தியா' மற்றும் 'தினகரன்', 'தினமணி' போன்ற தமிழ் நாளிதழ்களும், 2003-ம் ஆண்டு வெளியான 'கல்கி' வார இதழும் கட்டுரைகளை வெளியிட்டன. மிக சமீபத்தில் 'தி இந்து' 2019 ஆம் ஆண்டில் கன்னட கதை அட்டைகள் பற்றி ஒரு கட்டுரையை வெளியிட்டது –</p>
 [<span style="text-decoration: underline">https://www.thehindu.com/entertainment/art/telling-stories-putting-ideas/article30286560.ece</span>](https://www.thehindu.com/entertainment/art/telling-stories-putting-ideas/article30286560.ece)
 
-The English cards were appreciated in a Times of India news –
+டைம்ஸ் ஆஃப் இந்தியா செய்தியில் ஆங்கில அட்டைகள் பாராட்டப்பட்டன –
 [<span style="text-decoration: underline">https://m.timesofindia.com/city/coimbatore/a-trump-card-for-every-child/articleshow/97836292.cms</span>](https://m.timesofindia.com/city/coimbatore/a-trump-card-for-every-child/articleshow/97836292.cms)
-<p style="text-align:justify; text-justify: inter-word">A research paper on impact of the Kathai Aruvi story cards in terms of the responses of the teachers and children in some of the districts of Tamil Nadu was published in 2007 issue of ‘Teachers Talk’, a journal published by TVS Education Society, Chennai.</p>
+<p style="text-align:justify; text-justify: inter-word">தமிழ்நாட்டின் சில மாவட்டங்களில் உள்ள ஆசிரியர்கள் மற்றும் குழந்தைகளின் பதில்களின் அடிப்படையில் கதை அருவி கதை அட்டைகளின் தாக்கம் குறித்த ஆய்வுக் கட்டுரை சென்னை டிவிஎஸ் கல்விச் சங்கம், சென்னை 2007 ஆம் ஆண்டு 'டீச்சர்ஸ் டாக்' இதழில் வெளியிடப்பட்டது.</p>
 
 
 :-------------------------:|:-------------------------:
 ![](../assets/images/story_cards_5.jpg)  |  ![](../assets/images/story_cards_6.jpg)
 
-<p style="text-align:center"><em>Children reading Kathai Aruvi(Tamil Nadu)</em></p>
+<p style="text-align:center"><em>கதை அருவி படிக்கும் குழந்தைகள் (தமிழ்நாடு)</em></p>
 
-<p style="text-align:justify; text-justify: inter-word">Feedback from teachers, parents and others who work with children’s education show a tremendous impact of these story cards. Children read the stories with eagerness and teachers find it a valuable tool to develop language skills, dramatization, drawing and creative skills. This was especially so during the Covid pandemic; one of the feedback we got from the North said:</p>
+<p style="text-align:justify; text-justify: inter-word">ஆசிரியர்கள், பெற்றோர்கள் மற்றும் குழந்தைகள் கல்வியில் பணிபுரியும் பிறரிடமிருந்து வரும் கருத்துக்கள் இந்தக் கதை அட்டைகளின் மிகப்பெரிய தாக்கத்தைக் காட்டுகின்றன. குழந்தைகள் ஆர்வத்துடன் கதைகளைப் படிக்கிறார்கள். ஆசிரியர்கள் அதை மொழித் திறன், நாடகமாக்கல், வரைதல் மற்றும் படைப்புத் திறன்களை வளர்ப்பதற்கான மதிப்புமிக்க கருவியாகக் கருதுகின்றனர்.
+இது குறிப்பாக கோவிட் தொற்றின் போது இருந்தது; வடக்கில் இருந்து எமக்குக் கிடைத்த பின்னூட்டம் ஒன்று கூறியது:</p>
 
 
-<p style="text-align:justify; text-justify: inter-word"><em>“....During this lock down period schools have been closed for nearly two years. In these times it had become a challenge to connect children to reading and writing. Children were being promoted but they were unable to learn as per the levels in the classes. In such a situation we discussed with parents and started small community classes. In these community classes along with other teaching and learning material we used Katha Jharna too. These stories developed children's ability to read, discuss, express their views, original writing skills  in an unprecedented way. These cards are providing continuous support in  promoting children's reading and writing. With gratitude...”</em></p>
+<p style="text-align:justify; text-justify: inter-word"><em>“....இந்த கோவிட் முடக்குதல் காலத்தில் பள்ளிகள் கிட்டத்தட்ட இரண்டு ஆண்டுகளாக மூடப்பட்டுள்ளன. இந்தக் காலத்தில் குழந்தைகளை வாசிப்பதற்கும் எழுதுவதற்கும் இணைப்பது ஒரு சவாலாக மாறிவிட்டது. மாணவர்கள் அடுத்த வகுப்பிற்கு உயர்த்தப்பட்டனர். ஆனால் அவர்களால் வகுப்புகளில் உள்ள நிலைக்கு ஏற்றவாறு கற்க முடியவில்லை. அத்தகைய சூழ்நிலையில் நாங்கள் பெற்றோருடன் கலந்துரையாடி சிறிய சமூக வகுப்புகளை ஆரம்பித்தோம். இந்த சமூக வகுப்புகளில் மற்ற கற்பித்தல் மற்றும் கற்றல் பொருட்களுடன் நாங்கள் கதா ஜர்னாவையும் பயன்படுத்தினோம். இந்தக் கதைகள் குழந்தைகளின் வாசிப்பு, கலந்துரையாடல், கருத்துக்களை வெளிப்படுத்தும் திறன், அசல் எழுத்துத் திறன் ஆகியவற்றை முன்னோடியில்லாத வகையில் வளர்த்தெடுத்தன. இந்த அட்டைகள் குழந்தைகளின் வாசிப்பு மற்றும் எழுதுதலை ஊக்குவிப்பதில் தொடர்ச்சியான ஆதரவை வழங்குகின்றன. நன்றியுடன்...”</em></p>
 
-<p style="text-align:justify; text-justify: inter-word">Govt. Schools in Salem dist., TN have reported that Kathai Aruvi is motivating the children to write their own stories, create models, puppets, props and enact the stories</p>
+<p style="text-align:justify; text-justify: inter-word">சேலம் மாவட்டத்தில் உள்ள அரசு பள்ளிகள், கதை அருவி, குழந்தைகளை சொந்தமாக கதைகள் எழுதவும், மாதிரிகள், பொம்மைகள், முட்டுகளை உருவாக்கவும், கதைகளை உருவாக்கவும் ஊக்குவிக்கிறது என்று தெரிவித்தன.</p>
 
-<p style="text-align:justify; text-justify: inter-word">Several creative writing and storytelling workshops were conducted with children and teachers using the story cards over the years. In 2018, in collaboration with Sanchit Smriti, Lucknow, Kendriya Vidyalaya Sangathan conducted a series of storytelling workshops for KV teachers in the Northern Zone. The KV teachers responded enthusiastically to the Hindi story cards, Katha Jharna.</p>
+<p style="text-align:justify; text-justify: inter-word">பல ஆண்டுகளாக கதை அட்டைகளைப் பயன்படுத்தி குழந்தைகள் மற்றும் ஆசிரியர்களுடன் பல ஆக்கப்பூர்வமான எழுத்து மற்றும் கதைசொல்லல் பட்டறைகள் நடத்தப்பட்டன. 2018 ஆம் ஆண்டில், லக்னோவின் சஞ்சித் ஸ்மிருதியுடன் இணைந்து, கேந்திரிய வித்யாலயா சங்கதன் வடக்கு மண்டலத்தில் உள்ள கே. வி. ஆசிரியர்களுக்கான தொடர் கதைசொல்லல் பட்டறைகளை நடத்தியது. கதா ஜர்னா என்ற ஹிந்தி கதை அட்டைகளுக்கு KV ஆசிரியர்கள் உற்சாகமாக பதிலளித்தனர்.</p>
 
 :-------------------------:|:-------------------------:
 ![](../assets/images/story_cards_7.jpg)  |  ![](../assets/images/story_cards_8.jpg) |
@@ -99,19 +99,13 @@ The English cards were appreciated in a Times of India news –
 
 
 <p align="center">
-  <em>Reading Katha Jharna in a library, Nainital, Uttarakhand</em>
+  <em>உத்தரகண்ட், நைனிடால், ஒரு நூலகத்தில் கதா ஜர்னா வாசிப்பு</em>
 </p>
 
 <br>
-<p style="text-align:justify; text-justify: inter-word">A few overseas groups have also reported that they were using the story cards for teaching language to children.</p>
+<p style="text-align:justify; text-justify: inter-word">ஒரு சில வெளிநாட்டு குழுக்கள் குழந்தைகளுக்கு மொழியை கற்பிக்க கதை அட்டைகளைப் பயன்படுத்துவதாகவும் தெரிவித்துள்ளன.</p>
 
-<!-- <p style="text-align:justify; text-justify: inter-word">Some short videos sent by the school children on using the cards are available here.</p> -->
-
-
-
-<p style="text-align:justify; text-justify: inter-word">During the Corona Pandemic when the schools were closed, there was considerable demand that the story cards be put online for children to read from their homes, and Katha Jharna in Hindi were put online - Click [<span style="text-decoration: underline">here</span>](../storycards/hindi/index.html) to view them.</p>
-
-<!-- <p style="text-align:justify; text-justify: inter-word">Click here to view some video feedbacks received on Kathai Aruvi from children in Tamil Nadu schools</p> -->
+<p style="text-align:justify; text-justify: inter-word">கொரோனா தொற்று காரணமாக குழந்தைகள் தங்கள் வீட்டிலிருந்து படிக்கும் வகையில் கதை அட்டைகளை இணையத்தில் (online) வைக்க வேண்டும் என்ற கணிசமான கோரிக்கை இருந்தது. ஹிந்தியில் கதா ஜர்னா இணையத்தில் (online) போடப்பட்டது - அவற்றைப் பார்க்க [<span style="text-decoration: underline">இங்கே</span>](../storycards/hindi/index.html) கிளிக் செய்யவும்.</p>
 
 <!-- ![](../assets/images/story_cards_children_1.jpg)  -->
 
@@ -119,14 +113,15 @@ The English cards were appreciated in a Times of India news –
 ![](../assets/images/story_cards_children_3.jpg)  |  ![](../assets/images/story_cards_children_7.jpg)
  
 
-<p style="text-align:center"><em>Some school children using the Story Cards in their schools</em></p>
+<p style="text-align:center"><em>சில பள்ளிக் குழந்தைகள் தங்கள் பள்ளிகளில் கதை அட்டைகளைப் பயன்படுத்துகின்றனர்</em></p>
 
 
-**Funding of the Story Card Program – request for  support**
+**கதை அட்டைகள் திட்டத்தின் நிதி - ஆதரவுக்கான கோரிக்கை**
 
 
-<p style="text-align:justify; text-justify: inter-word"> Rajalakshmi Srinivasan Memorial Foundation is bringing out the story cards and distributing the Story Cards to rural schools by networking with a wide range of NGOs and donors. But this is still far from what is required in a vast country like ours with thousands of schools. Given the expanding demand for the cards in multiple languages from different parts of the country, the Foundation needs additional resources, and we are seeking funding support from individuals and institutions. In order to reach one set of 100 laminated story cards to a school an amount of Rs.1400/ is needed and an entire class can use the material at the same time. An amount of 14 lakhs is needed for reaching 1000 schools. Donors can take up a whole cluster/block/district for distribution of the story cards sets to schools. Donations to the Foundation are tax exempt under the 80 G provisions of the Income Tax Rules, as well as we are approved to receive CSR funds by the Income Tax Department.</p>
+<p style="text-align:justify; text-justify: inter-word">ராஜலக்ஷ்மி சீனிவாசன் நினைவு அறக்கட்டளையானது பல்வேறு தன்னார்வ தொண்டு நிறுவனங்கள் மற்றும் நன்கொடையாளர்களுடனான உதவியின்  மூலம் கதை அட்டைகளை வெளியிட்டு கிராமப்புற பள்ளிகளுக்கு விநியோகித்து வருகிறது. ஆனால் ஆயிரக்கணக்கான பள்ளிகளைக் கொண்ட நம்மைப் போன்ற ஒரு பரந்த நாட்டில்  இன்னும் செய்ய வேண்டியது நிறையகதை அட்டைகளுக்கான கார்டுகளுக்கான தேவை அதிகரித்து வருவதால், அறக்கட்டளைக்கு கூடுதல் ஆதாரங்கள் தேவைப்படுகின்றன. மேலும் நாங்கள் தனிநபர்கள் மற்றும் நிறுவனங்களிடமிருந்து நிதி உதவியை நாடுகிறோம்.
+100 லேமினேட் செய்யப்பட்ட ஸ்டோரி கார்டுகளின் ஒரு தொகுப்பு ஒரு பள்ளிக்கு சென்றடைவதற்கு ரூ.1400/ தொகை தேவைப்படுகிறது, மேலும் ஒரு முழு வகுப்பினரும் ஒரே நேரத்தில் அட்டைகளைப் பயன்படுத்தலாம். 1000 பள்ளிகளுக்கு 14 லட்சம் தேவை. பள்ளிகளுக்கு கதை அட்டைகளை விநியோகிக்க நன்கொடையாளர்கள் ஒரு முழு குழுமம் (cluster)/ வட்டாரம்(Block) /மாவட்டத்தை எடுத்துக் கொள்ளலாம். அறக்கட்டளைக்கான நன்கொடைகளுக்கு வருமான வரி  80 ஜி விதிகளின் கீழ் வரி விலக்கு அளிக்கப்பட்டுள்ளது, அத்துடன் வருமான வரித் துறையால் CSR நிதியைப் பெறுவதற்கு நாங்கள் அங்கீகரிக்கப்பட்டுள்ளோம்.</p>
 
 
-<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">திரும்பி செல்</a></p>
 
