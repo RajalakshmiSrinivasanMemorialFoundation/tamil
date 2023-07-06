@@ -1,42 +1,42 @@
 ---
 layout: page
-title: People
+title: மக்கள்
 permalink: people/
 ---
 
-<p style="text-align: center;"><strong>Board of Trustees</strong></p>
+<p style="text-align: center;"><strong>அறங்காவலர் குழு</strong></p>
  
 
-**Mr. Badri Narayanan J**
+**திரு ஜே. பத்ரி நாராயணன்**
 
-A graduate of College of Engineering, Anna University , and a senior executive with a Tier 1 IT services firm with more than 20 years of global management and leadership experience.
+அண்ணா பல்கலைக்கழகத்தின் பொறியியல் கல்லூரியில் பட்டம் பெற்றவர். 20ஆண்டுகளுக்கும் மேலாக உலகளாவிய மேலாண்மை மற்றும் தலைமைத்துவ அனுபவத்துடன் அடுக்கு 1 தகவல் தொழில் நுட்ப சேவை நிறுவனத்தில் மூத்த நிர்வாகி.
 
-**Dr. Devadatta V P**
-Educated at Madras University in Tamil Literature and worked as Professor and Head of the Department of Tamil, Mother Theresa University, Kodaikanal.
+**முனைவர். வி. பி. தேவதத்தா**
+தமிழ் இலக்கியத்தில் சென்னைப் பல்கலைக்கழகத்தில் பயின்று, கொடைக்கானல் அன்னை தெரசா பல்கலைக்கழகத்தில் தமிழ்த்துறைப் பேராசிரியராகவும், தலைவராகவும் பணியாற்றினார்.
 
-**Dr. Krishnan C N – Chairman**
-Educated at IIT Madras and IIT Kanpur in Electrical Engineering, worked as faculty member in Anna University Chennai, MIT Chromepet Campus.
+**முனைவர் சி. என். கிருஷ்ணன் – நிறுவனத் தலைவர்**
+ஐஐடி மெட்ராஸ் மற்றும் ஐஐடி கான்பூரில் எலக்ட்ரிக்கல் பொறியியல் படித்தவர். சென்னை அண்ணா பல்கலைக்கழகம், எம்ஐடி குரோம்பேட்டை வளாகத்தில் பேராசிரியராக பணியாற்றினார்.
 
-**Ms. Saraswati P**
-Educated at Delhi School of Social Work, involved in teacher training, teaching and learning processes of children and development of learning materials.
+**செல்வி பி. சரஸ்வதி**
+டெல்லி ஸ்கூல் ஆஃப் சோஷியல் வொர்க்கில் கல்வி கற்ற சரஸ்வதி, ஆசிரியர் பயிற்சி, குழந்தைகளின் கற்பித்தல் மற்றும் கற்றல் செயல்முறைகள் மற்றும் கற்றல் பொருட்களின் வளர்ச்சியில் ஈடுபட்டுள்ளார்.
 
-**Ms. Shanthi N – Managing Trustee**
-Educated at Ethiraj College for Women, worked as lecturer in Economics Department, Ethiraj College for Women.
+**திருமதி என். சாந்தி - நிர்வாக அறங்காவலர்**
+எத்திராஜ் மகளிர் கல்லூரியின் பொருளியல் துறையில் விரிவுரையாளராக பணியாற்றினார்.
 
-**Dr. Sujatha Balakrishnan**
-Educated in Madras University, served as  Professor of Commerce in Ethiraj College for Women.
+**முனைவர். சுஜாதா பாலகிருஷ்ணன்**
+சென்னை பல்கலைக்கழகத்தில் படித்து, எத்திராஜ் மகளிர் கல்லூரியில் வணிகவியல் பேராசிரியராகப் பணியாற்றினார்.
 
-**Dr.Vidya D**
-Educated in Anna University in Communication & Computer Engineering, taught in MIT, Anna University, presently Director, BNY-Mellon.
-
-
-<p style="text-align: center;"><strong>Office Manager</strong></p>
+**முனைவர் டி. வித்யா**
+அண்ணா பல்கலைக்கழகத்தில் தகவல் தொடர்பு மற்றும் கணினி பொறியியல் பயின்றார். அண்ணா பல்கலைக்கழகத்தின் எம்.ஐ.டி-யில் கற்பித்தார். தற்போது பி.என்.ஒய்-மெலன் (BNY-Mellon) இயக்குனர் ஆவார்.
 
 
-J Nandagopal  
-Cell: 9952028228/7010233948  
+<p style="text-align: center;"><strong>அலுவலக மேலாளர்</strong></p>
+
+
+ஜே நந்தகோபால்  
+செல்: 9952028228/7010233948  
 rubikadevi@gmail.com
 
 
-<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">திரும்பிச் செல்</a></p>
 
