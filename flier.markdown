@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flier
+title: துண்டு பிரசுரம்
 permalink: flier/
 ---
 
@@ -83,5 +83,5 @@ A-3 அட்டைகளில் அச்சிடப்பட்டு, ல�
 </table>
 
 
-<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">திரும்பிச் செல்</a></p>
 
