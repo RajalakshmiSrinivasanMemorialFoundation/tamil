@@ -57,5 +57,5 @@ permalink: launch/
 இந்த விழாவில் எடுக்கப்பட்ட சில புகைப்படங்களை காண  <a style="text-decoration: underline" href="https://rajifoundation.in/launch-gallery/">இங்கே</a> க்ளிக் செய்யவும்.
 
 
-<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">திரும்பிச் செல்</a></p>
 

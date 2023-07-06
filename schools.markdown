@@ -62,5 +62,5 @@ permalink: schools/
 
 <p style="text-align:justify; text-justify: inter-word">பொருளாதாரத்தில் பின் தங்கிய  குழந்தைகளின் வாசிப்பு மற்றும் புரிந்து கொள்ளும் திறனை மேம்படுத்துவதை முதன்மை நோக்கமாகக் கொண்டு, எங்களால் பல மொழிகளில் வெளியிடப்பட்டுள்ள கதை அட்டைகள்  பற்றி  [<span style="text-decoration: underline">இங்கே</span>](../story/) விவரிக்கப்பட்டுள்ளது.</p>
 
-<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">திரும்பிச் செல்</a></p>
 

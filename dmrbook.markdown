@@ -12,4 +12,4 @@ permalink: dmrbook/
 **Excerpt from the translated autobiography is available [<span style="text-decoration: underline">here</span>](../assets/Dr_Muthulakshmi_Reddy.pdf)**
 
 
-<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">திரும்பிச் செல்</a></p>
