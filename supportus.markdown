@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Support Us
+title: எங்களை ஆதரிக்கவும்
 permalink: support/
 ---
 
-<p style="text-align: center;"><strong>Seeking Support</strong></p>
+<p style="text-align: center;"><strong>ஆதரவை நாடுதல்</strong></p>
 
 
-Being a purely voluntary effort, the Foundation needs many forms of support for sustaining and expanding its activities, such as the following:
+முற்றிலும் தன்னார்வ முயற்சியாக இருப்பதால்  அறக்கட்டளையின் செயல்பாடுகளை நிலை நிறுத்தவும் விரிவுபடுத்தவும் பல வகையான ஆதரவு தேவைப்படுகிறது:
 
-1.	<p style="text-align:justify; text-justify: inter-word">Donations to the Foundation for its day-to-day functioning, covering salaries, rent, office expenses, transport and meeting costs etc.</p>
-2.	<p style="text-align:justify; text-justify: inter-word">Sponsoring our Story Cards Set to schools of your choice, at the rate of around Rs.1400/- per  set containing 100 cards.</p>
-3.	<p style="text-align:justify; text-justify: inter-word">Supporting students for their college education , at the rate of about Rs. 50,000/- per student per year. The donor can select the student to be supported (boy or girl) , the course of study  ( BA, B.Sc., BE etc) to be supported, etc.</p>
-4.	<p style="text-align:justify; text-justify: inter-word">Volunteers to work with schools for the less privileged children, including coaching, guidance, mentoring and networking activities.</p>
-5.	<p style="text-align:justify; text-justify: inter-word">Help raise CSR (Corporate Social Responsibility) or other funds for (i) bringing out the Story Cards in different languages, cost of which being around Rs.14 Lakhs for 1000 sets for one language, (ii) taking up specific projects in schools for improving the infrastructure and the teaching-learning processes, or (iii) building ecosystems and networks that assist and enable the children to take up work, training or study programs after passing out of the schools.</p>    
+1.	<p style="text-align:justify; text-justify: inter-word">அறக்கட்டளையின் சம்பளம் வழங்குதல், வாடகை, அலுவலகச் செலவுகள், போக்குவரத்து செலவுகள் போன்ற அன்றாட செயல்பாடுகளுக்கு நன்கொடைகள்.</p>
+2.	<p style="text-align:justify; text-justify: inter-word">100 அட்டைகள் கொண்ட ஒரு தொகுப்பிற்கு சுமார் ரூ.1400/-வீதம் நீங்கள் விரும்பும் பள்ளிகளுக்கு எங்கள் கதை அட்டைகளை வழங்குதல்.</p>
+3.	<p style="text-align:justify; text-justify: inter-word">மாணவர்களின் கல்விக்கு உதவுவதற்காக நன்கொடையாளர், ஆதரவளிக்கப்பட வேண்டிய மாணவர் (ஆண்அல்லது பெண்), ஆதரவளிக்கப்பட வேண்டிய படிப்பு (பி.ஏ., பி.எஸ்சி., பி.இ. போன்றவை) ஆகியவற்றைத் தேர்ந்தெடுக்கலாம். ஒரு மாணவருக்கு ஒரு வருடத்திற்கு   ரூ. 50,000/- வழங்கப்படுகிறது.</p>
+4.	<p style="text-align:justify; text-justify: inter-word">பொருளாதாரத்தில் பின் தங்கிய  குழந்தைகளுக்கான பள்ளிகளில் பயிற்சி,  வழிகாட்டல் மற்றும் வழி நடத்தல் போன்ற நடவடிக்கைகளை  மேற்கொள்ள  தன்னார்வலர்கள் தேவைப் படுகிறார்கள்.</p>
+5.	<p style="text-align:justify; text-justify: inter-word">சிஎஸ்ஆர் (கார்ப்பரேட் சமூக பொறுப்பு) அல்லது இதர நிதியை கீழே குறிப்பிட்டுள்ள  காரணங்களுக்குத் திரட்ட உதவுதல். (I) இதில் ஒரு மொழிக்கு 1000 செட்களுக்கு ரூ.14 லட்சம் செலவாகும், (ii) பள்ளிகளின் உட்கட்டமைப்பு வசதிகளை மேம்படுத்தவும், கற்பித்தல்-கற்றல் நடைமுறைகளை மேம்படுத்தவும் குறிப்பிட்ட திட்டங்களை மேற்கொள்ளுதல், (iii)குழந்தைகள் பள்ளிகளில் தேர்ச்சி பெற்ற பிறகு வேலை, பயிற்சி அல்லது படிப்புத் திட்டங்களை மேற்கொள்வதற்கு உதவும் சுற்றுச்சூழல் அமைப்புகள் மற்றும் தொடர்புகளை உருவாக்குதல்.</p>    
 
-Donations to the Foundation are eligible for tax deductions under section 80G of the Income Tax Act. Also, the Foundation has certificate of eligibility for receiving CSR grants.
+அறக்கட்டளைக்கான நன்கொடைகள் வருமான வரிச் சட்டத்தின் 80G பிரிவின் கீழ் வரி விலக்குகளுக்குத் தகுதியுடையவை. மேலும்,அறக்கட்டளை CSR மானியங்களைப் பெறுவதற்கான தகுதிச் சான்றிதழைக் கொண்டுள்ளது.
 
 
 <p style="text-align: center;"><a href="#" onClick="history.go(-1)">திரும்பிச் செல்</a></p>
