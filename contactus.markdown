@@ -1,26 +1,26 @@
 ---
 layout: page
-title: Contact Us
+title: தொடர்பு கொள்க
 permalink: contact/
 ---
 
-<p style="text-align: center;"><strong>Contact Us</strong></p>
+<p style="text-align: center;"><strong>தொடர்பு கொள்க</strong></p>
 
-**Office:**
-No. 5/67, Ground Floor  
-State Bank Colony, 4th Cross St.  
-Chromepet  
-Chennai -- 600044  
+**அலுவலகம்:**
+எண். 5/67, தரைத்தளம்  
+ஸ்டேட் பாங்க் காலனி, 4 வது குறுக்குத் தெரு  
+குரோம்பேட்டை  
+சென்னை -- 600044  
 
-Ph. 044-24922113  
-E-mail: <rsmf1944@gmail.com>  
+ஃபோன். 044-24922113  
+மின்னஞ்சல்: <rsmf1944@gmail.com>  
 
 <br>
 
-| ***Office Manager:***       | ***Managing Trustee:*** | ***Trust Chairman:*** 
+| ***அலுவலக மேலாளர்:***       | ***நிர்வாக அறங்காவலர்:*** | ***அறக்கட்டளை தலைவர்:*** 
 :--- |:--- |:---
- J.Nandagopal                | N. Shanthi              | C N Krishnan          
- Cell: 9952028228/ 7010233948| Cell: 9444032890        | Cell: 9841026505      
+ ஜெ. நந்தகோபால்                | ந. சாந்தி              | சி. என். கிருஷ்ணன்          
+ கைபேசி: 9952028228/ 7010233948| கைபேசி: 9444032890        | கைபேசி: 9841026505      
  rubikadevi@gmail.com        | nstempom@gmail.com      | cnkrish@gmail.com     
 
 
