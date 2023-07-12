@@ -1,6 +1,6 @@
 ---
 layout: page
-title: மக்கள்
+title: அறங்காவலர் குழு
 permalink: people/
 ---
 
