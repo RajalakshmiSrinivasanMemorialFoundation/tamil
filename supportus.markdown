@@ -1,6 +1,6 @@
 ---
 layout: page
-title: எங்களை ஆதரிக்கவும்
+title: ஆதரவை நாடுதல்
 permalink: support/
 ---
 
