@@ -1,22 +1,28 @@
 ---
 layout: page
-title: About
+title: ராஜலைட்சும்‌ சீனிவாசன்‌ (ராஜி)
 permalink: about/
 ---
 
-<p style="text-align: center;"><strong>Rajalakshmi Srinivasan</strong></p>
+<p style="text-align: center;"><strong>ராஜலைட்சும்‌ சீனிவாசன்‌ (ராஜி)</strong></p>
 
 ![Rajalakshmi Srinivasan](../assets/images/raji_photo.jpg){: style="float:right; padding:16px"}
 
-<p style="text-align:justify; text-justify: inter-word">Rajalakshmi Srinivasan (Raji) was born in Srirangam, Tamil Nadu, to Lakshmi Srinivasan and S.R. Srinivasan, and was the granddaughter of K. Santhanam, the freedom fighter. She had her school education in Srirangam, Ooty and Madurai, and college and university education in Karaikudy, Chennai and New York in the field of Economics. She taught in SRC Trichy and Sarada College Salem before joining Ethiraj College in 1973 where she worked in the Department of Economics till her retirement in 2002.</p>
+<p style="text-align:justify; text-justify: inter-word">திருமதி லட்சுமி சீனிவாசனுக்கும்‌ எஸ்‌.ஆர்‌. சீனிவாசனுக்கும்‌ ராஜி ஸ்ரீரங்கத்தில்‌ பிறந்தார்‌. சுதந்திரப்‌ போராட்ட வீரரான கே. சந்தானம்‌ அவர்களின்‌ பேத்தி என்ற பேற்றினையும்‌ பெற்றவர்‌. ஸ்ரீரங்கத்திலும்‌ ஊட்டியிலும்‌ பள்ளிக்கல்வியைப்‌ பயின்றவர். கல்லூரி மற்றும்‌ பல்கலைக்கழகக்‌ கல்வியைக்‌ காரைக்குடியிலும் சென்னையிலும்‌ பெறும்‌ வாய்ப்பைப்‌ பெற்றதோடு நியூயார்க்கில்‌ பொருளாதாரத்தைப்‌ பயின்ற திறன்‌ பெற்றவர்‌.
+1973-ல்‌ எத்திராஜ்‌ கல்லூரியில்‌ தன்னை இணைத்துக்‌ கொள்ளும்‌ முன்‌ திருச்சி சீதாலட்சுமி கல்லூரியிலும்‌ சேலம்‌ சாரதா கல்லூரியிலும்‌ பணியாற்றிய அனுபவம்‌ பெற்றவர்‌. 2002 ஆம்‌ ஆண்டு ஒய்வு பெறும்வரை தொடர்ந்து எத்திராஜ்‌ கல்லூரிப்‌ பொருளியல்‌ துறையில்‌ பணியாற்றியவர்.</p>
 
-<p style="text-align:justify; text-justify: inter-word">Right from her college days, Raji had shown keen interest in working for the under privileged and disadvantaged sections of the society, either as an individual or as a part of an organization. She combined this wider social concern very well with her own professional pursuits as a Professor of Economics, and as a happy home maker, throughout her working life. Organizing the slum dwellers for better living conditions, mobilizing women for their rights and dignity (she was a founding member of Pennurimai Iyakkam), being in the forefront of teachers' struggles for their rights and better working conditions, etc. were some of the activities Raji was deeply involved in.</p>
+<p style="text-align:justify; text-justify: inter-word">கல்லூரி நாட்களிலிருந்தே ராஜி உரிமையற்றவர்க்கும்‌ உரிமை குறைந்தார்க்கும்‌ பாதிக்கப்பட்ட சமூகத்தின்‌ பிரிவினருக்கும்‌ தனிப்பட்ட முறையிலும்‌, ஒர்‌ அமைப்பின்‌ பகுதியாக அமைந்தும்‌ பணியாற்றுவதில்‌ மிகுந்த ஆர்வம்‌ காட்டி வந்துள்ளார்‌. இந்தப்‌ பரந்த சமூக அக்கறையானது அவருடைய பொருளாதாரப்‌ பேராசிரியர்‌ பணியிலும்‌ தொடர்ந்ததோடு மகிழ்ச்சியான இல்லத்தையும்‌ உருவாக்கி வாழ்நாள்‌ முழுதும்‌ பாதிக்கப்பட்ட சமூகத்திற்கு உழைத்த பெருமைக்கு உரியவர்.</p>
 
-<p style="text-align:justify; text-justify: inter-word">Her lifelong interest and passion to be with children found its perfect and abiding fulfilment when Raji joined the Avvai Home Orphanage and School for Girls (Adyar) as a volunteer in 2002; an association that she continued till the end in 2013. She became a core member of the Avvai Home family to which she contributed in a number of capacities – as a volunteer, as a teacher, as an administrator, as a fund raiser and in all other ways that the institution needed her.</p>
+<p style="text-align:justify; text-justify: inter-word">குப்பத்து ஏழை மக்களின்‌ வாழ்க்கையை மேம்படுத்த அவர்களை அமைப்பு ரீதியாக ஒன்றிணைத்து
+உழைத்தவர்‌. பெண்களை ஒருங்கிணைத்து அவர்களின்‌ அடிப்படை உரிமைகளுக்கும்‌ கண்ணியத்திற்கும்‌ போராடியவர்‌. பெண்ணுரிமை இயக்கத்தின்‌ அமைப்பை உருவாக்கிய ஓர்‌ முக்கிய உறுப்பினர்‌. கல்லூரி ஆசிரியர்‌ போராட்டத்தில்‌ தன்னை இணைத்துக்‌ கொண்டு அவர்கள்‌ பணியாற்றும்‌ சூழலை மேம்படுத்த செயல்பட்டவர். இவையனைத்தும்‌ அவர்‌ முழுமையாகத்‌ தன்னை ஈடுபடுத்திக்‌ கொண்ட செயல்பாடுகளில்‌ சில.</p>
 
-<p style="text-align:justify; text-justify: inter-word">Raji was willing to explore new paths and new solutions and was never a prisoner of the system she was part of. While innately uncomfortable with use of power, she exercised her authority remarkably well without offending anyone. A patient listener, all felt valued and their work worthy in her company.</p>
+<p style="text-align:justify; text-justify: inter-word">எப்போதும்‌ குழந்தைகளோடு இருப்பதை மிகவும்‌ விரும்பும்‌ மனோபாவம்‌ கொண்டவர்‌. அடையாறில்‌ உள்ள அவ்வை இல்லத்தில்‌ ஒரு தன்னார்வத்‌ தொண்டராகத்‌ தன்னை இணைத்துக்‌ கொண்ட போது அது நிறைவு பெற்றது. 2013-ன்‌ இறுதிவரை அத்தொண்டு தொடர்ந்தது. அவ்வை இல்லத்தின்‌ முக்கிய உறுப்பினராக
+இருந்து பன்முக ஆளுமையோடு ஒரு தொண்டராக, ஒர்‌ ஆசிரியராக, ஒரு நிர்வாகியாக, இல்லத்திற்கு நிதி திரட்டுபவராக மற்றும்‌ பல்வேறு வகைகளில்‌ அந்த நிறுவனத்தேவைக்கு ஏற்ப இடையறாது பணியாற்றினார்.</p>
 
-<p style="text-align:justify; text-justify: inter-word">With her selfless service and genuine interest and concern for others, Raji touched the lives of everyone she came in contact with, without distinctions of class, caste, religion, and gender, and made a positive difference to those lives.</p>
+<p style="text-align:justify; text-justify: inter-word">புதிய பாதை அமைப்பதிலும்‌, புதிய தீர்வுகள்‌ காண்பதிலும்‌ ராஜி எப்போதும்‌ உறுதியாக நின்றவர்‌. அவர்‌ எந்த அமைப்பின்‌ பகுதியாக இருந்தாலும்‌ அதில்‌ தன்னை ஒரு நாளும்‌ சிறைப்படுத்திக்‌ கொண்டதில்லை. பிறர்‌ கூறுவதை மிகுந்த பொறுமையோடு செவி சாய்க்கும்‌ பண்புடையவர்‌. தாங்கள்‌ செய்கிற பணியின்‌ மதிப்பை உணர்வதோடு அதன்‌ தகுதியையும்‌ அவரின்‌ உடனிருப்பில்‌ அனைவரும்‌ உணரும்‌ தன்மையர்‌. ஏழை, பணக்காரர்‌, சாதி, மத, ஆண்‌, பெண்‌ என்ற எந்தவித வேறுபாடுமின்றித்‌ தன்னோடு தொடர்பு கொண்டோர்‌ அனைவரிடமும்‌ தன்‌ சுயநல மற்ற சேவை மனோபாவத்தாலும்‌ அக்கறையாலும்‌ அவர்கள்‌ வாழ்க்கையை இதயத்தால்‌ அரவணைத்தவர்‌, அவர்கள்‌ வாழ்வை மலரச்‌ செய்த பெருமிதங்‌ கொண்டவர்.</p>
+
+<p style="text-align:justify; text-justify: inter-word">ராஜலட்சுமி சீனிவாசன்‌ நினைவு அறக்கட்டளை நிறுவனம்‌, பொது மக்களின்‌ அறக்கட்டளை நிறுவனமாகப்‌ பதிவு செய்யப்பட்டுள்ளது. நிறுவனத்தின்‌ அனைத்து சேவை செயல்பாடுகளுக்கும்‌ மக்களின்‌
+பேராதரவைப்‌ பல்வேறு வகையிலும்‌ வேண்டுகிறது நிறுவனம்‌.</p>
 
 <p style="text-align: center;"><a href="#" onClick="history.go(-1)">திரும்பிச் செல்</a></p>
 
