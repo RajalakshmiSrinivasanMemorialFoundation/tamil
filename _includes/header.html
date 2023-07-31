@@ -1,6 +1,9 @@
 <header class="site-header" role="banner" style="background-image: linear-gradient(to right, #382829 , #1d1717);">
 
     <div class="wrapper">
+      <div style="text-align: right" >
+        <button><a href="https://rajifoundation.in">English Version</a></button>
+      </div>
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       <a style="color:#FFFFFF" class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
