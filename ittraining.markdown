@@ -27,4 +27,4 @@ permalink: ittraining/
 சனிக்கிழமைகளில் 9.00-12.00 மணிக்கு அண்ணா பல்கலைக்கழகத்தின் எம்ஐடி வளாகத்தில் உள்ள கணினி
 மையத்தில் இத்திட்டம் நடத்தப்படுகிறது.
 
-<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">திரும்பிச் செல்</a></p>
