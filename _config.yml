@@ -48,9 +48,10 @@ plugins:
 
 header_pages:
   - index.markdown
-  - launch.markdown
+  # - launch.markdown
   - schools.markdown
   - fellowship.markdown
+  - chromepetschools.markdown
   - story.markdown
   - people.markdown
   - flier.markdown
